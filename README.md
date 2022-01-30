@@ -92,7 +92,7 @@ src
 | [황상섭](https://github.com/sangseophwang) | 헤더, 네비게이션바, 옵션 항목 구현, README.md 작성             |
 | [금보배](https://github.com/BobaeKeum)     | 상품 소개 및 구매자 추천 이미지 구현                           |
 | [정인권](https://github.com/developjik)    | Context API, 상품 등록, 배송 설정, 노출 및 판매기간 구현, 배포 |
-| [현다솜](https://github.com/som-syom)      | 환경설정 구축, 상품 기본 정보, 이미지 업로더 Utils 구현        |
+| [현다솜](https://github.com/som-syom)      | 환경설정 구축, 상품 기본 정보, 유효성 체크 및 key 한글 변환     |
 
 <br/>
 
